@@ -42,8 +42,6 @@ The skill includes built-in terminology dictionaries and audit checklists for fo
 - Produces professional manufacturing-grade English/Chinese suitable for foreign enterprise SQE review
 
 
-```
-
 ### Mode Switching
 
 The skill detects mode from your message keywords:
